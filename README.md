@@ -1,2 +1,3 @@
 # Redacted-Public-Release-MHV-VFE-P4-development-3.0.1-29-development-3.0.1-942-Apr-2020
 Repository containing the CIF Submission for MyHealtheVet (MHV) Veteran-Facing Enhancements (VFE) Phase 4, development-3.0.1-29/development-3.0.1-942 received April 2020. This is a joint submission with MHV Infrastructure &amp; Interface Enhancements Phase 4.
+My HealtheVet Interface and Infrastructure (MHV I&E) provides Veterans with the back-end structure enhancement to their VA health records. Deliver Application Programming Interface (API) enhancements to vets.gov, Veterans Benefit Administration (VBA) and mobile. Provide Veterans access to their Healthy Living Assessment (HLA). Enhance My HealtheVet’s (MHV) Secure Message (SM) capabilities.
